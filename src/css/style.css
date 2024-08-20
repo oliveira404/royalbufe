@@ -11,4 +11,7 @@
 /* Home */
 @import './home/introducao.css';
 
+/* Servicos */
+@import './servicos/lista-servicos.css';
+
 
