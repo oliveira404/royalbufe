@@ -10,6 +10,7 @@
 
 /* Home */
 @import './home/introducao.css';
+@import './global/footer.css';
 
 /* Servicos */
 @import './servicos/lista-servicos.css';
